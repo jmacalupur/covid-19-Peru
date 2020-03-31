@@ -1,4 +1,4 @@
-﻿Fecha;Pruebas Realizadas;Negativos Acumulados;Confirmados Acumulados;Recuperados Acumulados;Fallecidos Acumulados;Ativos Acumulados
+﻿Fecha;Pruebas Realizadas;Negativos Acumulados;Confirmados Acumulados;Recuperados Acumulados;Fallecidos Acumulados;Activos Acumulados
 2020/03/06;155;154;1;0;0;1
 2020/03/07;219;213;6;0;0;6
 2020/03/08;250;243;7;0;0;7
@@ -24,4 +24,4 @@
 2020/03/28;10,896;10,225;671;16;16;639
 2020/03/29;12,669;11,817;852;16;18;818
 2020/03/30;13,452;12,502;950;53;24;873
-2020/03/31;14,463;13,398;1,065;53;30;982
+2020/03/31;14,463;13,398;1,065;394;30;641
